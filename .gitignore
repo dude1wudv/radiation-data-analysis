@@ -1,0 +1,14 @@
+.cursor-tmp-fig-preview/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Report conversion intermediates
+deliverables/04_manuscript/.convert_report.py
+deliverables/04_manuscript/.report_*_temp.md
+deliverables/04_manuscript/.report_header.tex
+deliverables/04_manuscript/report.aux
+deliverables/04_manuscript/report.log
+
+# Office temporary files
+~$*

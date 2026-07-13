@@ -1,0 +1,93 @@
+[
+  {
+    "graph": "GTrLinS",
+    "base_name": "transfer_linear_S",
+    "pdf": "deliverables\\03_figures\\pdf\\transfer_linear_S.pdf",
+    "emf": "deliverables\\03_figures\\emf\\transfer_linear_S.emf",
+    "png": "deliverables\\03_figures\\png\\transfer_linear_S.png"
+  },
+  {
+    "graph": "GTrLogS",
+    "base_name": "transfer_semilog_S",
+    "pdf": "deliverables\\03_figures\\pdf\\transfer_semilog_S.pdf",
+    "emf": "deliverables\\03_figures\\emf\\transfer_semilog_S.emf",
+    "png": "deliverables\\03_figures\\png\\transfer_semilog_S.png"
+  },
+  {
+    "graph": "GOutLogS",
+    "base_name": "output_semilog_S",
+    "pdf": "deliverables\\03_figures\\pdf\\output_semilog_S.pdf",
+    "emf": "deliverables\\03_figures\\emf\\output_semilog_S.emf",
+    "png": "deliverables\\03_figures\\png\\output_semilog_S.png"
+  },
+  {
+    "graph": "GTrLinT",
+    "base_name": "transfer_linear_T",
+    "pdf": "deliverables\\03_figures\\pdf\\transfer_linear_T.pdf",
+    "emf": "deliverables\\03_figures\\emf\\transfer_linear_T.emf",
+    "png": "deliverables\\03_figures\\png\\transfer_linear_T.png"
+  },
+  {
+    "graph": "GTrLogT",
+    "base_name": "transfer_semilog_T",
+    "pdf": "deliverables\\03_figures\\pdf\\transfer_semilog_T.pdf",
+    "emf": "deliverables\\03_figures\\emf\\transfer_semilog_T.emf",
+    "png": "deliverables\\03_figures\\png\\transfer_semilog_T.png"
+  },
+  {
+    "graph": "GOutLogT",
+    "base_name": "output_semilog_T",
+    "pdf": "deliverables\\03_figures\\pdf\\output_semilog_T.pdf",
+    "emf": "deliverables\\03_figures\\emf\\output_semilog_T.emf",
+    "png": "deliverables\\03_figures\\png\\output_semilog_T.png"
+  },
+  {
+    "graph": "GParVth",
+    "base_name": "threshold_voltage",
+    "pdf": "deliverables\\03_figures\\pdf\\threshold_voltage.pdf",
+    "emf": "deliverables\\03_figures\\emf\\threshold_voltage.emf",
+    "png": "deliverables\\03_figures\\png\\threshold_voltage.png"
+  },
+  {
+    "graph": "GParDVth",
+    "base_name": "threshold_shift",
+    "pdf": "deliverables\\03_figures\\pdf\\threshold_shift.pdf",
+    "emf": "deliverables\\03_figures\\emf\\threshold_shift.emf",
+    "png": "deliverables\\03_figures\\png\\threshold_shift.png"
+  },
+  {
+    "graph": "GParGm",
+    "base_name": "gm_change",
+    "pdf": "deliverables\\03_figures\\pdf\\gm_change.pdf",
+    "emf": "deliverables\\03_figures\\emf\\gm_change.emf",
+    "png": "deliverables\\03_figures\\png\\gm_change.png"
+  },
+  {
+    "graph": "GParSS",
+    "base_name": "subthreshold_swing",
+    "pdf": "deliverables\\03_figures\\pdf\\subthreshold_swing.pdf",
+    "emf": "deliverables\\03_figures\\emf\\subthreshold_swing.emf",
+    "png": "deliverables\\03_figures\\png\\subthreshold_swing.png"
+  },
+  {
+    "graph": "GParI30",
+    "base_name": "output_current_30v",
+    "pdf": "deliverables\\03_figures\\pdf\\output_current_30v.pdf",
+    "emf": "deliverables\\03_figures\\emf\\output_current_30v.emf",
+    "png": "deliverables\\03_figures\\png\\output_current_30v.png"
+  },
+  {
+    "graph": "GParV1u",
+    "base_name": "voltage_at_1ua",
+    "pdf": "deliverables\\03_figures\\pdf\\voltage_at_1ua.pdf",
+    "emf": "deliverables\\03_figures\\emf\\voltage_at_1ua.emf",
+    "png": "deliverables\\03_figures\\png\\voltage_at_1ua.png"
+  },
+  {
+    "graph": "GRecovery",
+    "base_name": "stress_recovery_30v",
+    "pdf": "deliverables\\03_figures\\pdf\\stress_recovery_30v.pdf",
+    "emf": "deliverables\\03_figures\\emf\\stress_recovery_30v.emf",
+    "png": "deliverables\\03_figures\\png\\stress_recovery_30v.png"
+  }
+]
