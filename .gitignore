@@ -1,4 +1,5 @@
 .cursor-tmp-fig-preview/
+tmp/
 __pycache__/
 *.py[cod]
 *$py.class
